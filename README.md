@@ -17,6 +17,8 @@ FirstLoginUser.cmd
 
 - REG FILE IMPORTS (PowerISO & ClassicShell)
 
+- Classic Shell Part 1 - .reg file added to Registry
+
 - Classic Shell Part 2 - to import the XML restore cmd line.
 
 - Discord Install and waits for installation complete and waits for the folder and shortcut.lnc to show up in StartMenu.
