@@ -17,9 +17,9 @@ FirstLoginUser.cmd
 
 - REG FILE IMPORTS (PowerISO & ClassicShell)
 
-- Classic Shell Part 1 - .reg file added to Registry
+- Classic Shell Part 1 - .reg file added to Registry (Might want to add this after discord, for Sort Name to be achieved in Start Menu)
 
-- Classic Shell Part 2 - to import the XML restore cmd line.
+- Classic Shell Part 2 - to import the XML restore cmd line. (Might want to add this after discord, for Sort Name to be achieved in Start Menu)
 
 - Discord Install and waits for installation complete and waits for the folder and shortcut.lnc to show up in StartMenu.
 
@@ -28,6 +28,8 @@ FirstLoginUser.cmd
 - Once Discord shortcut.lnc is discovered, moves the shortcut.lnc to All Users and deletes the leftover folder.
 
 - Deletes the left over installation from C:\
+
+- Logs is the only file left.
 
 
 
@@ -38,3 +40,5 @@ CompleteSetup.cmd
 - Enable Windows Photo Viewer
 
 - Task Schedule FirstLoginUser.vbs (Guarded) + Self Delete after OOBE.
+
+- Logs is the only file left.
